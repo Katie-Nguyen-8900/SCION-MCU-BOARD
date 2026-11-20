@@ -30,7 +30,7 @@ Projects:
 
 4.) **Do not delete or modify existing files.** 
 
-5.) Make a new folder in the main branch of your fork with the project name.
+5.) Make a new folder in the main branch of your fork with the project name. **Have all your work within ONE folder!**
 
 6.) Add sub folders according to their purpose (documentation, kicad files, ltspice files, etc).
 
